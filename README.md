@@ -3,10 +3,10 @@ This dataset contains information from survey of plantain chips consumers
 
 ### Table of Content
 - [Project Overview](#project-overview)
-- [Data Source](#data_source)
+- [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Cleaning](#data_cleaning)
-- [Exploratory Data Analysis](#exploratory_data_analysis)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
 - [Recommendation](#recommenadation)
 
